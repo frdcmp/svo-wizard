@@ -1,4 +1,5 @@
 # SVO Wizard
+Currently online on http://lion/SVO_Wizard
 
 ## Overview
 
